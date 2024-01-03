@@ -1,3 +1,3 @@
-first python proj/n
-4 lines of code/n
+first python proj,
+4 lines of code,
 let's go
