@@ -1,1 +1,1 @@
-first python project
+python band name generator
