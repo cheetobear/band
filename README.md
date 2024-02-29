@@ -1,3 +1,1 @@
-first python proj,
-4 lines of code,
-let's go
+first python project
